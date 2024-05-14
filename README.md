@@ -15,7 +15,7 @@ company wants to know:
 Based on various market surveys, the consulting firm has gathered a large dataset of different types of cars across the American market.
 
 ## Objective
-You are required to model the prices of cars with the available independent variables. It will be
+To model the prices of cars with the available independent variables. It will be
 used by management to understand how exactly the prices vary with the independent variables.
 They can accordingly manipulate the design of the cars, the business strategy etc. to meet
 certain price levels. Further, the model will be good for management to understand the pricing
